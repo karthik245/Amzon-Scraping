@@ -1,2 +1,2 @@
 # Amzon-Scraping
-![](amazon critical rating.png)
+![](amazon%20critical%20rating.png)
